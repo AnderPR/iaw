@@ -4,3 +4,4 @@
 ### Unidad 1: Introducción a la implantacion de aplicaciones webs
 
 - [Taller1](unidad1/taller1.md)
+- [Taller2](unidad1/taller2.md)
