@@ -35,5 +35,5 @@
 
    Finalmente creamos un archivo "pueba", le editamos para subir al repositorio remot y comprobar el funcionamiento.
 
-![Imagen_creacion archivo 2](img/capejer4.2.jpg)  
-![Imagen_github](img/capejer4.3.jpg)
+![Imagen_creacion archivo 2](img/capejer4.2.JPG)  
+![Imagen_github](img/capejer4.3.JPG)
