@@ -12,5 +12,5 @@
 ### Unidad 2: Instalación de gestores de contenidos (CMS)
 
 - [Generador_páginas_estáticas_Jekyll_(SSG)](unidad2/jekyll_github_pages.md)
-- [Pagina con tema Lagrange]([unidad2/jekyll_github_pages.md](https://anderpr.github.io/Lagrange/))
-- [Pagina de Netlify]([unidad2/jekyll_github_pages.md](https://sitioanderpelayoklise.netlify.app/)https://sitioanderpelayoklise.netlify.app/)
+- [Pagina con tema Lagrange](https://anderpr.github.io/Lagrange/)
+- [Pagina de Netlify](https://sitioanderpelayoklise.netlify.app/)
