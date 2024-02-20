@@ -11,7 +11,7 @@
 - [Actividad 1.3.1 Instalación de la pila LAMP](https://github.com/AnderPR/actividad13_lamp/blob/main/README.md)
 - [Actividad 1.3.2 Instalación de WordPress en una instancia EC2 de AWS](https://github.com/AnderPR/actividad13_wordpress/blob/main/README.md)
 - [Actividad 1.3.3 Instalación de WordPress usando contenedores Docker y Docker Compose](https://github.com/AnderPR/actividad13_wordpress_dockers/blob/main/README.md)
-- [Actividad 1.3.4 Creación de un entorno de desarrollo LAMP con una pequeña aplicación WEB](actividad13_lamp_dockers/README.md)
+- [Actividad 1.3.4 Creación de un entorno de desarrollo LAMP con una pequeña aplicación WEB](AnderPR/actividad13_lamp_dockers/README.md)
 
 ### Unidad 2: Instalación de gestores de contenidos (CMS)
 
